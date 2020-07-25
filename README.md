@@ -1,4 +1,4 @@
-![redme](https://user-images.githubusercontent.com/22152509/88467664-bcc75480-ceaf-11ea-9f79-70ed5f34bfb9.png)
+![redme_Easy-Resize com](https://user-images.githubusercontent.com/22152509/88467763-ed5bbe00-ceb0-11ea-9a05-4cbca4bfeefc.jpg)
 
 
 JavaScript | HTML | CSS | Bootstrap | Git | 
