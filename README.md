@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22152509/88569745-4478a480-d011-11ea-98ff-366adcb6d18b.png" width="500" height="600"/>
+  <img src="https://user-images.githubusercontent.com/22152509/88569745-4478a480-d011-11ea-98ff-366adcb6d18b.png" width="500" height="550"/>
 </p>
 <p align="center">
 JavaScript | HTML | CSS | Bootstrap | Git | Women TechMakers Ambassador | GDG Porto Alegre
