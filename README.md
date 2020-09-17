@@ -8,7 +8,7 @@ JavaScript | HTML | CSS | Bootstrap | Git | Women TechMakers Ambassador | GDG Po
 📌    Living in Porto Alegre, Rio Grande do Sul, Brazil
 </p>
 <p align="center">
-💼    Front-End Developer Web na Pontual Sistemas
+💼    Front-End Developer na Pontual Sistemas
 </p>
 <p align="center">
 :woman_student:	Cursando Sistemas de informação
