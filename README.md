@@ -8,7 +8,7 @@ Figma | HTML | CSS | Bootstrap | Git | Women TechMakers Ambassador | GDG Porto A
 📌    Living in Porto Alegre, Rio Grande do Sul, Brazil
 </p>
 <p align="center">
-💼    Ux designer na Pontual Sistemas
+💼    Ux designer na DBServer
 </p>
 <p align="center">
 :woman_student:	Cursando Sistemas de informação
